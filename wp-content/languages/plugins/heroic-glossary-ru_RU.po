@@ -1,0 +1,28 @@
+# Translation of Plugins - Heroic Glossary - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Heroic Glossary - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-04 16:58:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Heroic Glossary - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://herothemes.com/heroic-glossary"
+msgstr "https://herothemes.com/heroic-glossary"
+
+#. Description of the plugin
+msgid "Glossary plugin for WordPress"
+msgstr "Плагин для создания глоссария на WordPress"
+
+#. Author of the plugin
+msgid "HeroThemes"
+msgstr "HeroThemes"
+
+#. Author URI of the plugin
+msgid "https://www.herothemes.com/"
+msgstr "https://www.herothemes.com/"

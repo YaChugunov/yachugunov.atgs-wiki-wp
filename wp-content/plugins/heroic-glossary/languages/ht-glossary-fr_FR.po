@@ -1,0 +1,125 @@
+# Translation of Plugins - Heroic Glossary - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Heroic Glossary - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Heroic Glossary - Stable (latest release)\n"
+
+#: dist/blocks.build.js:1
+msgid "Glossary item %s added"
+msgstr "Le terme %s a été ajouté"
+
+#: dist/blocks.build.js:1
+msgid "Glossary item %s updated"
+msgstr "Le terme %s a été mis à jour"
+
+#: dist/blocks.build.js:1
+msgid "Insert and add another"
+msgstr "Insérer et ajouter un nouveau"
+
+#: dist/blocks.build.js:1
+msgid "Insert"
+msgstr "Insérer"
+
+#: dist/blocks.build.js:1
+msgid "Update"
+msgstr "Mise à jour"
+
+#: dist/blocks.build.js:1
+msgid "Enter Description here.."
+msgstr "Saisir une description ici..."
+
+#: dist/blocks.build.js:1
+msgid "Description"
+msgstr "Description"
+
+#: dist/blocks.build.js:1
+msgid "Enter Title here..."
+msgstr "Saisir le titre ici ..."
+
+#: dist/blocks.build.js:1
+msgid "Title"
+msgstr "Titre"
+
+#: dist/blocks.build.js:1
+msgid "Search the Glossary"
+msgstr "Chercher dans le Glossaire"
+
+#: dist/blocks.build.js:1
+msgid "Delete Item"
+msgstr "Supprimer le terme"
+
+#: dist/blocks.build.js:1
+msgid "Delete Glossary Item?"
+msgstr "Effacer le terme du Glossaire ?"
+
+#: dist/blocks.build.js:1
+msgid "to add a new Glossary Item"
+msgstr "Pour ajouter un nouveau terme au Glossaire"
+
+#: dist/blocks.build.js:1
+msgid "Click"
+msgstr "Clic"
+
+#: dist/blocks.build.js:1
+msgid "Import sample content"
+msgstr "Importer un contenu de démonstration"
+
+#: dist/blocks.build.js:1
+msgid "Add Glossary Item"
+msgstr "Ajouter un terme au Glossaire"
+
+#: dist/blocks.build.js:1
+msgid "Cancel"
+msgstr "Annuler"
+
+#: dist/blocks.build.js:1
+msgid "Are you sure you wish to import sample content? This will overwrite and delete any existing entries."
+msgstr "Êtes-vous sûr de vouloir importer un contenu de démonstration ? Cela écrasera et supprimera toute entrée existante."
+
+#: dist/blocks.build.js:1
+msgid "Glossary Settings"
+msgstr "Paramètres du Glossaire"
+
+#: dist/blocks.build.js:1
+msgid "Search the Glossary..."
+msgstr "Chercher dans le Glossaire"
+
+#: dist/blocks.build.js:1
+msgid "heroic"
+msgstr "heroic"
+
+#: dist/blocks.build.js:1
+msgid "heroic glossary"
+msgstr "heroic glossary"
+
+#: dist/blocks.build.js:1
+msgid "glossary"
+msgstr "glossary"
+
+#. Author URI of the plugin
+msgid "https://www.herothemes.com/"
+msgstr "https://www.herothemes.com/"
+
+#. Author of the plugin
+msgid "HeroThemes"
+msgstr "HeroThemes"
+
+#. Description of the plugin
+msgid "Glossary plugin for WordPress"
+msgstr "Plugin de Glossaire pour WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://herothemes.com/heroic-glossary"
+msgstr "https://herothemes.com/heroic-glossary"
+
+#. Plugin Name of the plugin
+#: dist/blocks.build.js:1
+msgid "Heroic Glossary"
+msgstr "Heroic Glossary"

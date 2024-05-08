@@ -1,0 +1,35 @@
+# Copyright (C) 2022 HeroThemes
+# This file is distributed under the same license as the Heroic Table of Contents plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Heroic Table of Contents 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ht-toc\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-19T14:48:56+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ht-toc\n"
+
+#. Plugin Name of the plugin
+msgid "Heroic Table of Contents"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://herothemes.com/plugins/heroic-table-of-contents/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-toc"
+msgstr ""
+
+#. Description of the plugin
+msgid "Heroic Table of Contents is the easiest way to add a Table of Contents to your site."
+msgstr ""
+
+#. Author of the plugin
+msgid "HeroThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-toc"
+msgstr ""
