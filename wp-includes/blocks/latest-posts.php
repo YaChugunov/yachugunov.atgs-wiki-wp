@@ -83,6 +83,7 @@ function render_block_core_latest_posts($attributes) {
 			if (isset($attributes['featuredImageSizeHeight'])) {
 				$image_style .= sprintf('max-height:%spx;', $attributes['featuredImageSizeHeight']);
 			}
+
 			$image_classes = 'wp-block-latest-posts__featured-image';
 			if (isset($attributes['featuredImageAlign'])) {
 				$image_classes .= ' align' . $attributes['featuredImageAlign'];
@@ -100,7 +101,6 @@ function render_block_core_latest_posts($attributes) {
 
 			);
 			$author_link  = get_author_posts_url(get_the_author_meta("ID"));
-
 
 			$featured_image = get_the_post_thumbnail(
 				$post,
@@ -207,7 +207,7 @@ function render_block_core_latest_posts($attributes) {
 				wp_kses_post($post_content)
 			);
 		}
-		$list_items_markup .= "</div>\n";
+
 		$list_items_markup .= "</li>\n";
 	}
 

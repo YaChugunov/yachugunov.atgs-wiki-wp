@@ -1,0 +1,662 @@
+# Translation of Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-24 22:31:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Floating Notification Bar, Sticky Menu on Scroll, Announcement Banner, and Sticky Header for Any Theme &#8211; My Sticky Bar (formerly myStickymenu) - Stable (latest release)\n"
+
+#: welcome-bar.php:198
+msgid "Add"
+msgstr "Добавить"
+
+#: class-review-box.php:522 mystickymenu-review-popup.php:45
+#: mystickymenu-review-popup.php:59
+msgid "Submit"
+msgstr "Отправить"
+
+#: help.php:15 help.php:50
+msgid "Chat"
+msgstr "Чат"
+
+#: mystickymenu.php:1643
+msgid "Date"
+msgstr "Дата"
+
+#: help.php:9 mystickymenu.php:217 mystickymenu.php:1641
+#: stickymenu-dashboard.php:151
+msgid "Email"
+msgstr "Email"
+
+#: mystickymenu.php:1936
+msgid "Hours"
+msgstr "Часы"
+
+#: mystickymenu.php:1937
+msgid "Minutes"
+msgstr "Минуты"
+
+#: mystickymenu.php:1640 stickymenu-dashboard.php:150
+msgid "Name"
+msgstr "Имя"
+
+#: mystickymenu.php:1628 mystickymenu.php:1630
+msgid "Search"
+msgstr "Поиск"
+
+#: mystickymenu.php:1644
+msgid "URL"
+msgstr "URL"
+
+#: stickymenu-dashboard.php:30
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: mystickymenu.php:1645 mystickymenu.php:1675 stickymenu-dashboard.php:77
+#: stickymenu-dashboard.php:92
+msgid "Delete"
+msgstr "Удалить"
+
+#: stickymenu-dashboard.php:72
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: stickymenu-dashboard.php:68
+msgid "Edit"
+msgstr "Изменить"
+
+#: stickymenu-dashboard.php:37
+msgid "Status"
+msgstr "Статус"
+
+#: mystickymenu.php:550
+msgid "Back to Dashboard"
+msgstr "Вернуться в консоль"
+
+#. translators: %s: Human-readable time difference.
+#: recommended-plugins.php:368
+msgid "%s ago"
+msgstr "%s назад"
+
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+#: recommended-plugins.php:288
+msgid "<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
+msgstr "<a href=\"%1$s\">Пожалуйста, обновите WordPress</a>, затем <a href=\"%2$s\">узнайте больше об обновлении PHP</a>."
+
+#. translators: %s: URL to Update PHP page.
+#: recommended-plugins.php:302 recommended-plugins.php:321
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr "<a href=\"%s\">Узнайте больше про обновление PHP</a>."
+
+#. translators: %s: URL to WordPress Updates screen.
+#: recommended-plugins.php:296 recommended-plugins.php:312
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr "<a href=\"%s\">Пожалуйста, обновите WordPress</a>."
+
+#: recommended-plugins.php:208
+msgid "Activate"
+msgstr "Активировать"
+
+#. translators: %s: Plugin author.
+#: recommended-plugins.php:141
+msgid "By %s"
+msgstr "Автор: %s"
+
+#: welcome-bar.php:472
+msgid "Redirection link"
+msgstr "Ссылка перенаправления"
+
+#: welcome-bar.php:488
+msgid "rel Attribute"
+msgstr "Атрибут Rel"
+
+#: recommended-plugins.php:93
+msgid "Try out our recommended plugins"
+msgstr "Попробуйте наши рекомендуемые плагины"
+
+#: recommended-plugins.php:95
+msgid "Hide From Menu"
+msgstr "Скрыть из меню"
+
+#. translators: %s: Plugin name and version.
+#: recommended-plugins.php:165
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Установить %s сейчас"
+
+#: recommended-plugins.php:167
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: recommended-plugins.php:172
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Установка невозможна"
+
+#. translators: %s: Plugin name and version.
+#: recommended-plugins.php:187
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Обновить %s сейчас"
+
+#: recommended-plugins.php:189
+msgid "Update Now"
+msgstr "Обновить сейчас"
+
+#: recommended-plugins.php:194
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Невозможно обновить"
+
+#: recommended-plugins.php:205
+msgctxt "plugin"
+msgid "Active"
+msgstr "Активен"
+
+#. translators: %s: Plugin name.
+#: recommended-plugins.php:210
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: recommended-plugins.php:221
+msgid "Network Activate"
+msgstr "Активация сети"
+
+#. translators: %s: Plugin name.
+#: recommended-plugins.php:223
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Активация сети %s"
+
+#: recommended-plugins.php:236
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Установлено"
+
+#. translators: %s: Plugin name and version.
+#: recommended-plugins.php:252
+msgid "More information about %s"
+msgstr "Больше информации про %s"
+
+#: recommended-plugins.php:254
+msgid "More Details"
+msgstr "Больше деталей"
+
+#: recommended-plugins.php:284
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr "Этот плагин&#8217; не работает с вашими версиями WordPress и PHP."
+
+#: recommended-plugins.php:308
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr "Этот плагин&#8217; не работает с вашей версией WordPress."
+
+#: recommended-plugins.php:317
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr "Этот плагин&#8217; не работает с вашей версией PHP."
+
+#: recommended-plugins.php:365
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#. translators: %s: Number of millions.
+#: recommended-plugins.php:377
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "Более %s миллиона"
+msgstr[1] "Более %s миллионов"
+msgstr[2] "Более %s миллионов"
+
+#: recommended-plugins.php:381
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Менее 10"
+
+#. translators: %s: Number of installations.
+#: recommended-plugins.php:386
+msgid "%s Active Installations"
+msgstr "%s активных установок"
+
+#: recommended-plugins.php:392
+msgid "Untested with your version of WordPress"
+msgstr "Не проверено с вашей версией WordPress"
+
+#: recommended-plugins.php:394
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Несовместимо</strong> с вашей версией WordPress"
+
+#: recommended-plugins.php:396
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Совместимо</strong> с вашей версией WordPress"
+
+#: recommended-plugins.php:406 stickymenu-dashboard.php:52
+#: stickymenu-dashboard.php:84 stickymenu-dashboard.php:250
+msgid "Are you sure?"
+msgstr "Уверены ли вы?"
+
+#: recommended-plugins.php:407
+msgid "If you hide the recommended plugins page from your menu, it won't appear there again. Are you sure you'd like to do it?"
+msgstr "Если вы скроете страницу рекомендуемых плагинов из своего меню, она больше там не появится. Вы уверены, что хотите это сделать?"
+
+#: mystickymenu-deactivate-form.php:141
+msgid "Cancel"
+msgstr "Отмена"
+
+#: welcome-bar.php:529
+msgid "Sec"
+msgstr "Сек"
+
+#: welcome-bar.php:545
+msgid "No effect"
+msgstr "Без эффекта"
+
+#: welcome-bar.php:546
+msgid "Slide in"
+msgstr "Скользить в"
+
+#: mystickymenu-deactivate-form.php:127
+msgid "Email address"
+msgstr "Email-адрес"
+
+#: mystickymenu-deactivate-form.php:130
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: mystickymenu-deactivate-form.php:135
+msgid "Anonymous feedback"
+msgstr "Анонимный отзыв"
+
+#: mystickymenu.php:1480
+msgid "Your request is not valid"
+msgstr "Ваш запрос недействителен"
+
+#: upgrade-to-pro.php:532
+msgid "30 days money back guaranteed"
+msgstr "Гарантия возврата денег в течение 30 дней"
+
+#: upgrade-to-pro.php:536
+msgid "The plugin will always keep working even if you don't renew your license"
+msgstr "Плагин всегда будет работать, даже если вы не продлеваете лицензию"
+
+#: mystickymenu.php:714
+msgid "Sticky Text Color"
+msgstr "Цвет Липкого текста"
+
+#: welcome-bar.php:420
+msgid "None"
+msgstr "Нет"
+
+#: welcome-bar.php:416
+msgid "Attention Effect"
+msgstr "Эффект привлечения внимания"
+
+#: welcome-bar.php:421
+msgid "Flash"
+msgstr "Вспыхивать"
+
+#: welcome-bar.php:425
+msgid "Heartbeat"
+msgstr "Серцебиение"
+
+#: welcome-bar.php:422
+msgid "Shake"
+msgstr "Трястись"
+
+#: welcome-bar.php:423
+msgid "Swing"
+msgstr "Раскачиваться"
+
+#: welcome-bar.php:424
+msgid "Tada"
+msgstr "Tada"
+
+#: welcome-bar.php:426
+msgid "Wobble"
+msgstr "Колебаться"
+
+#: welcome-bar.php:95
+msgid "Bottom"
+msgstr "Снизу"
+
+#: welcome-bar.php:125
+msgid "Font"
+msgstr "Шрифт"
+
+#: welcome-bar.php:101
+msgid "Height"
+msgstr "Высота"
+
+#: welcome-bar.php:86
+msgid "Position"
+msgstr "Позиция"
+
+#: welcome-bar.php:693
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: welcome-bar.php:91
+msgid "Top"
+msgstr "Сверху"
+
+#: mystickymenu.php:801 welcome-bar.php:613
+msgid "Add Rule"
+msgstr "Добавить правило"
+
+#: welcome-bar.php:575
+msgid "After a few seconds"
+msgstr "После нескольких секунд"
+
+#: welcome-bar.php:578
+msgid "After Scroll"
+msgstr "После прокрутки"
+
+#: mystickymenu.php:772 mystickymenu.php:810 welcome-bar.php:637
+msgid "Don't show on"
+msgstr "Не показывать"
+
+#: welcome-bar.php:590
+msgid "Expiry date"
+msgstr "Срок действия"
+
+#: welcome-bar.php:595
+msgid "No expiry date"
+msgstr "Бессрочно"
+
+#: mystickymenu.php:1101
+msgid "Reset Settings saved."
+msgstr "Сбросить сохраненные настройки."
+
+#: mystickymenu.php:777 mystickymenu.php:815 welcome-bar.php:642
+msgid "Select Rule"
+msgstr "Выбор Правила"
+
+#: mystickymenu.php:771 mystickymenu.php:809 welcome-bar.php:636
+msgid "Show on"
+msgstr "Показывать"
+
+#: mystickymenu.php:544 stickymenu-dashboard.php:205
+msgid "Sticky menu"
+msgstr "Липкое меню"
+
+#: welcome-bar.php:128
+msgid "Select font family"
+msgstr "Выбрать семейство шрифтов"
+
+#: welcome-bar.php:141
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: welcome-bar.php:397
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: welcome-bar.php:150
+msgid "Bar Text"
+msgstr "Текст полосы"
+
+#: welcome-bar.php:403
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: welcome-bar.php:409
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: welcome-bar.php:478
+msgid "Open in a new tab"
+msgstr "Открыть в новой вкладке"
+
+#: welcome-bar.php:537
+msgid "Display Rules"
+msgstr "Правила отображения"
+
+#: welcome-bar.php:553
+msgid " Upgrade Now"
+msgstr " Обновить сейчас"
+
+#: welcome-bar.php:569
+msgid "Trigger"
+msgstr "Триггер"
+
+#: mystickymenu.php:750 upgrade-to-pro.php:176 welcome-bar.php:608
+msgid "Page targeting"
+msgstr "Таргетирование страницы"
+
+#: upgrade-to-pro.php:36 upgrade-to-pro.php:59 upgrade-to-pro.php:82
+#: upgrade-to-pro.php:105 upgrade-to-pro.php:128
+msgid "Updated and support for 1 year"
+msgstr "Обновление и поддержка в течение 1 года"
+
+#: upgrade-to-pro.php:43 upgrade-to-pro.php:66 upgrade-to-pro.php:89
+#: upgrade-to-pro.php:112 upgrade-to-pro.php:135
+msgid "Updated and support for 2 years"
+msgstr "Обновление и поддержка в течение 2-х лет"
+
+#: upgrade-to-pro.php:50 upgrade-to-pro.php:73 upgrade-to-pro.php:96
+#: upgrade-to-pro.php:119 upgrade-to-pro.php:142
+msgid "Updated and support for lifetime"
+msgstr "Обновление и поддержка на протяжении всей эксплуатации"
+
+#: mystickymenu.php:504 mystickymenu.php:1090 mystickymenu.php:1104
+msgid "Unable to complete your request"
+msgstr "Невозможно выполнить ваш запрос."
+
+#: mystickymenu.php:302
+msgid "Upgrade"
+msgstr "Обновить"
+
+#. Author URI of the plugin
+#: mystickymenu.php
+msgid "https://premio.io/downloads/mystickymenu/"
+msgstr "https://premio.io/downloads/mystickymenu/"
+
+#: mystickymenu.php:626 welcome-bar.php:253 welcome-bar.php:388
+#: welcome-bar.php:560
+msgid "Desktop"
+msgstr "Настольный ПК"
+
+#: mystickymenu.php:632 welcome-bar.php:257 welcome-bar.php:392
+#: welcome-bar.php:564
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: mystickymenu.php:985 welcome-bar.php:750
+msgid "Reset"
+msgstr "Сбросить"
+
+#: mystickymenu.php:977 welcome-bar.php:739
+msgid "Save"
+msgstr "Сохранить"
+
+#: mystickymenu.php:642 stickymenu-dashboard.php:219
+msgid "Settings"
+msgstr "Настройки"
+
+#: mystickymenu.php:554
+msgid "How To Make a Sticky Header"
+msgstr "Как сделать закрепленный заголовок"
+
+#: mystickymenu.php:569
+msgid "Select Sticky Menu"
+msgstr "Выбрать прилепленное меню"
+
+#: mystickymenu.php:619 welcome-bar.php:556
+msgid "Devices"
+msgstr "Устройства"
+
+#: mystickymenu.php:620 mystickymenu.php:741 mystickymenu.php:829
+#: mystickymenu.php:864 welcome-bar.php:97 welcome-bar.php:109
+#: welcome-bar.php:274 welcome-bar.php:359 welcome-bar.php:373
+#: welcome-bar.php:484 welcome-bar.php:496 welcome-bar.php:524
+#: welcome-bar.php:656
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: mystickymenu.php:657
+msgid "Slide"
+msgstr "Слайд"
+
+#: mystickymenu.php:661 welcome-bar.php:547
+msgid "Fade"
+msgstr "Исчезание"
+
+#: mystickymenu.php:870
+msgid "front page"
+msgstr "главная страница"
+
+#: mystickymenu.php:876
+msgid "blog page"
+msgstr "страница блога"
+
+#: mystickymenu.php:882
+msgid "pages"
+msgstr "страницы"
+
+#: mystickymenu.php:888
+msgid "tags"
+msgstr "метки"
+
+#: mystickymenu.php:894
+msgid "categories"
+msgstr "рубрики"
+
+#: mystickymenu.php:900
+msgid "posts"
+msgstr "записи"
+
+#: mystickymenu.php:906
+msgid "archives"
+msgstr "архивы"
+
+#: mystickymenu.php:912
+msgid "search"
+msgstr "поиск"
+
+#: mystickymenu.php:918
+msgid "404"
+msgstr "404"
+
+#: mystickymenu.php:926
+msgid "<span class=\"description\"><strong>Except for this pages:</strong> </span>"
+msgstr "<span class=\"description\"><strong>Кроме этих страниц:</strong> </span>"
+
+#: mystickymenu.php:940
+msgid "<span class=\"description\"><strong>Except for this posts:</strong> </span>"
+msgstr "<span class=\"description\"><strong>Кроме этих записей:</strong> </span>"
+
+#: mystickymenu.php:990
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: mystickymenu.php:501 mystickymenu.php:1087
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#. Plugin URI of the plugin
+#: mystickymenu.php
+msgid "https://premio.io/"
+msgstr "https://premio.io/"
+
+#. Author of the plugin
+#: mystickymenu.php
+msgid "Premio"
+msgstr "Premio"
+
+#: mystickymenu.php:840
+msgid "CSS ID's and Classes to use:"
+msgstr "ID и классы CSS для использования:"
+
+#: mystickymenu.php:836
+msgid "Add/edit CSS style. Leave it blank for default style."
+msgstr "Создать/править CSS-стиль. Оставьте пустым для применения стиля по умолчанию."
+
+#: mystickymenu.php:835 upgrade-to-pro.php:184
+msgid "CSS style"
+msgstr "CSS-стиль"
+
+#: mystickymenu.php:556
+msgid "Add sticky menu / header to any theme. <br />Simply change 'Sticky Class' to HTML element class desired to be sticky (div id can be used as well)."
+msgstr "Добавить прилипание меню / хэдера для любой темы. <br />Просто измените 'Липкий класс' для класса HTML-элемента, который нужно прилепить (также может быть использован div id)."
+
+#: mystickymenu.php:745
+msgid "Disable sticky menu at scroll down"
+msgstr "Отключить прилипание меню при прокрутке вниз"
+
+#: mystickymenu.php:678
+msgid "If set to 0 auto calculate will be used."
+msgstr "Если поставить 0 - будет использовано автоматическое вычисление."
+
+#: mystickymenu.php:690
+msgid "If set to 0 it will use initial Make visible on Scroll value."
+msgstr "Если поставить 0 - будет использован исходная настройка 'Сделать видимым' в 'Значении прокрутки'."
+
+#: mystickymenu.php:863
+msgid "Disable at"
+msgstr "Отключить на"
+
+#: mystickymenu.php:933
+msgid "<span class=\"description\">Comma separated list of pages to enable. It should be page name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all pages.</span>"
+msgstr "<span class=\"description\">Разделённый запятой список страниц для выключения. Это может быть название публикации, ID или слаг. Например: about-us, 1134, Контакты. Оставьте пустым, если желаете отключить прилипание меню для всех страниц.</span>"
+
+#: mystickymenu.php:947
+msgid "<span class=\"description\">Comma separated list of posts to enable. It should be post name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all posts.</span>"
+msgstr "<span class=\"description\">Разделённый запятой список записей для включения. Это может быть название публикации, ID или слаг. Например: about-us, 1134, Контакты. Оставьте пустым, если желаете отключить прилипание меню для всех записей.</span>"
+
+#: mystickymenu.php:724
+msgid "numbers 1-100."
+msgstr "числа 1-100."
+
+#: mystickymenu.php:852
+msgid "Disable CSS style"
+msgstr "Отключить CSS-стиль"
+
+#: mystickymenu.php:652
+msgid "Fade or slide effect"
+msgstr "Эффект затухания или скольжения"
+
+#: mystickymenu.php:689
+msgid "Make visible on Scroll at homepage"
+msgstr "Сделать видимым при прокрутке на главной странице"
+
+#: mystickymenu.php:677
+msgid "Make visible on Scroll"
+msgstr "Сделать видимым при прокрутке"
+
+#: mystickymenu.php:667
+msgid "Disable at Small Screen Sizes"
+msgstr "Отключить на экранах маленьких размеров"
+
+#: mystickymenu.php:708
+msgid "Sticky Transition Time"
+msgstr "Время липкого перехода"
+
+#: mystickymenu.php:723
+msgid "Sticky Opacity"
+msgstr "Липкая непрозрачность"
+
+#: mystickymenu.php:699
+msgid "Sticky Background Color"
+msgstr "Липкий цвет фона"
+
+#: mystickymenu.php:646
+msgid "Sticky z-index"
+msgstr "Липкий z-index"
+
+#: mystickymenu.php:562
+msgid "Sticky Class"
+msgstr "Липкий класс"
+
+#. Plugin Name of the plugin
+#: mystickymenu.php
+msgid "myStickymenu"
+msgstr "myStickymenu"
+
+#: mystickymenu.php:856
+msgid "Use this option if you plan to include CSS Style manually"
+msgstr "Используйте данную опцию, если вы планируете вставлять CSS-стили вручную"
