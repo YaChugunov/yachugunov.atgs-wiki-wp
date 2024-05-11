@@ -67,7 +67,7 @@ jQuery( function ($) {
 					//data-has-filtered-items="true"
 					section.filter(function() {
 					 	//console.log( $(this).data("has-filtered-items") );
-  						return true === $(this).data("has-filtered-items") 
+						 return 'hg-section' === $(this).data("role")
 					}).css( "display", "block" );
 				}
 

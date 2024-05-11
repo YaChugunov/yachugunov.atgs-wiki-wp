@@ -1,0 +1,193 @@
+# Translation of Plugins - WP Sticky Sidebar &#8211; Floating Sidebar On Scroll for Any Theme - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP Sticky Sidebar &#8211; Floating Sidebar On Scroll for Any Theme - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-18 18:33:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Sticky Sidebar &#8211; Floating Sidebar On Scroll for Any Theme - Stable (latest release)\n"
+
+#: mystickysidebar.php:170
+msgid "Unable to complete your request"
+msgstr "Невозможно выполнить ваш запрос."
+
+#: mystickysidebar.php:374
+msgid "Posts"
+msgstr "Записи"
+
+#: mystickysidebar.php:380
+msgid "Archives"
+msgstr "Архивы"
+
+#: mystickysidebar.php:386
+msgid "Search"
+msgstr "Поиск"
+
+#: mystickysidebar.php:395
+msgid "<span class=\"description\"><strong>Except for this page:</strong> Shopping Cart, Checkout: </span>"
+msgstr "<span class=\"description\"><strong>За исключением страниц:</strong> Корзина для покупок, Оформление заказа: </span>"
+
+#: mystickysidebar.php:410
+msgid "<span class=\"description\"><strong>Except for this posts:</strong> myStickySidebar Demo: </span>"
+msgstr "<span class=\"description\"><strong>За исключением записи:</strong> myStickySidebar Demo: </span>"
+
+#: mystickysidebar.php:425
+msgid "Save"
+msgstr "Сохранить"
+
+#: mystickysidebar.php:430
+msgid "Reset"
+msgstr "Сброс"
+
+#: mystickysidebar.php:434
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: mystickysidebar.php:51
+msgid "Upgrade"
+msgstr "Апгрейд"
+
+#. Author URI of the plugin
+#: mystickysidebar.php
+msgid "https://premio.io/downloads/wpstickysidebar/"
+msgstr "https://premio.io/downloads/wpstickysidebar/"
+
+#: mystickysidebar.php:168
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: mystickysidebar.php:222 mystickysidebar.php:273
+msgid "Settings"
+msgstr "Настройки"
+
+#: mystickysidebar.php:223
+msgid "Upgrade to Pro"
+msgstr "Апгрейд до Про"
+
+#: mystickysidebar.php:249
+msgid "Devices"
+msgstr "Устройства"
+
+#: mystickysidebar.php:250 mystickysidebar.php:325 mystickysidebar.php:338
+msgid "Upgrade Now"
+msgstr "Апгрейдить сейчас"
+
+#: mystickysidebar.php:255
+msgid "Desktop"
+msgstr "Стационарный компьютер"
+
+#: mystickysidebar.php:261
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: mystickysidebar.php:286
+msgid "Disable in small screens"
+msgstr "Отключать на маленьких экранах"
+
+#: mystickysidebar.php:329
+msgid "CSS style"
+msgstr "CSS-оформление"
+
+#: mystickysidebar.php:330
+msgid "Add/edit CSS style. Leave it blank for default style."
+msgstr "Добавить/редактировать CSS-оформление. Оставьте пустым для применения стандартного оформления."
+
+#: mystickysidebar.php:332
+msgid "/* Custom CSS will go here */"
+msgstr "/* Произвольный код CSS здесь */"
+
+#: mystickysidebar.php:344
+msgid "Front Page"
+msgstr "Внешняя страница"
+
+#: mystickysidebar.php:350
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: mystickysidebar.php:356
+msgid "Pages"
+msgstr "Страницы"
+
+#: mystickysidebar.php:362
+msgid "Tags"
+msgstr "Метки"
+
+#: mystickysidebar.php:368
+msgid "Categories"
+msgstr "Рубрики"
+
+#. Plugin URI of the plugin
+#: mystickysidebar.php
+msgid "https://premio.io/"
+msgstr "https://premio.io/"
+
+#. Author of the plugin
+#: mystickysidebar.php
+msgid "Premio"
+msgstr "Premio"
+
+#. Plugin Name of the plugin
+#: mystickysidebar.php
+msgid "WP Sticky Sidebar"
+msgstr "WP Sticky Sidebar"
+
+#: mystickysidebar.php:337
+msgid "Disable at"
+msgstr "Отключить на"
+
+#: mystickysidebar.php:416
+msgid "<span class=\"description\">Comma separated list of posts to enable. It should be post name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky sidebar for all posts.</span>"
+msgstr "<span class=\"description\">Список записей через запятую для включения. Это должны быть название записи, идентификатор или ярлык. Например: about-us, 1134, Контакты. Оставьте поле пустым, если вы хотите отключить плавающую боковую панель для всех записей.</span>"
+
+#: mystickysidebar.php:402
+msgid "<span class=\"description\">Comma separated list of pages to enable. It should be page name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky sidebar for all pages.</span>"
+msgstr "<span class=\"description\">Список страниц через запятую для включения. Это должны быть название страницы, идентификатор или ярлык. Например: about-us, 1134, Контакты. Оставьте поле пустым, если вы хотите отключить плавающую боковую панель для всех страниц.</span>"
+
+#: mystickysidebar.php:287
+msgid "Disable if screen width is smaller than"
+msgstr "Отключить, если ширина экрана меньше"
+
+#: mystickysidebar.php:299
+msgid "Additional bottom margin"
+msgstr "Дополнительный отступ снизу"
+
+#: mystickysidebar.php:308
+msgid "Update sidebar height"
+msgstr "Обновление высоты боковой панели"
+
+#: mystickysidebar.php:241
+msgid "Sidebar element CSS class or id"
+msgstr "Укажите класс CSS или id плавающего блока"
+
+#: mystickysidebar.php:231
+msgid "Add floating sticky sidebar to any WordPress theme."
+msgstr "Добавьте плавную плавающую боковую панель в любой теме WordPress."
+
+#: mystickysidebar.php:244
+msgid "Container element class or id. It must be element that contains both sidebar and content. If left blank script will try to guess. Usually it's #main or #main-content"
+msgstr "Класс или идентификатор основного контейнера. Это должен быть элемент, содержащий как боковую панель, так и содержимое страницы. Если пустой - скрипт попытается определить автоматически. Обычно это #main или #main-content"
+
+#: mystickysidebar.php:309
+msgid "Troubleshooting option, try this if your sidebar loses its background color."
+msgstr "Опция отслеживания ошибок, попробуйте изменить, если возникают проблемы с фоном сайдбара."
+
+#: mystickysidebar.php:277
+msgid "Additional top margin"
+msgstr "Дополнительный отступ сверху"
+
+#: mystickysidebar.php:229
+msgid "WP Sticky Sidebar Settings"
+msgstr "Настройки WP Sticky Sidebar"
+
+#: mystickysidebar.php:238
+msgid "Sticky Class"
+msgstr "Плавающий блок"
+
+#. Description of the plugin
+#: mystickysidebar.php
+msgid "Simple sticky sidebar implementation. After install go to Settings / WP Sticky Sidebar and change Sticky Class to .your_sidebar_class."
+msgstr "Простая реализация плавающей боковой панели. После установки перейдите в Настройки / WP Sticky Sidebar и введите в поле Плавающий блок .ваш_класс_боковой_панели."

@@ -1,20 +1,27 @@
-=== Heroic Glossary ===
+=== Heroic Glossary - Block for building Glossaries, Dictionaries and more ===
 Contributors: herothemes, richardlong, chrishadley
 Tags: glossary, block, terms, definition, dictionary, vocabulary, acronym, synonyms, lexicon, abbreviation
 Requires at least: 6.0
-Tested up to: 6.4.2
-Version: 1.2.4
-Stable tag: 1.2.4
+Tested up to: 6.5.2
+Requires PHP: 7.4
+Version: 1.2.5
+Stable tag: 1.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Heroic Glossary is the easiest way to create and manage your own glossary of terms.
+The best WordPress glossary builder plugin to create and manage your own glossary of terms.
 
 == Description ==
 
-"Great Glossary plugin" ★★★★★ - WordPress.org user review.
+= WordPress Glossary Builder Plugin =
 
-Heroic Glossary is the easiest way to create and manage your own glossary of terms.
+We understand that creating a comprehensive and user-friendly glossary should be straightforward and hassle-free. That's why we developed Heroic Glossary, a dynamic drag & drop WordPress Glossary Builder that’s both SIMPLE and POWERFUL.
+
+Heroic Glossary enables you to craft engaging glossaries, dictionaries, encyclopedias, or lexicons for your website in a matter of minutes, not hours!
+
+At [HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary), we prioritize user experience. Our pre-designed glossary templates and intuitive workflow make Heroic Glossary the most user-friendly glossary plugin on the market.
+
+= What is a Glossary? = 
 
 A glossary helps your audience understand technical terms, acronyms and abbreviations they may not be familiar with. This is perfect if you're writing technical articles or documents using terms that might not be understood by your audience.
 
@@ -27,13 +34,21 @@ Heroic Glossary is a Gutenberg Block which means you can build your glossary rig
 
 The Heroic Glossary Block includes a number of configurable settings and predefined styles to customize the display of your glossary.
 
-> <strong>About HeroThemes</strong><br>
-> [HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) develop some of the best WordPress plugins, tools and themes, with over 26,000 customers and counting. If you like this plugin and want more news, themes and plugins, you can do the following:
-> 
-> * Get the [KnowAll Knowledge Base theme for WordPress](https://herothemes.com/themes/knowall-wordpress-knowledge-base/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary), create a WordPress powered knowledge base site in minutes.
-> * Check out the [best WordPress Knowledge Base plugin](https://herothemes.com/plugins/heroic-wordpress-knowledge-base/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
-> * Answer Frequently Asked Questions with [Heroic FAQs plugin for WordPress](https://herothemes.com/plugins/wordpress-faq-plugin/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
-> * Follow HeroThemes on [Twitter](https://twitter.com/herothemes) & [Facebook](https://www.facebook.com/herothemes).
+= WordPress Glossary Plugin Use-Cases = 
+
+* Dictionary – Develops a dictionary with specialized terms utilized on your website.
+* Encyclopedia – Constructs a comprehensive compendium for your site.
+* Synonyms – Maintains and presents alternative words for the terms you employ.
+* Lexicon – Establishes a repository of specific terms.
+* Terminology – Compiles a collection of unique terms and phrases.
+* Definitions – Provides clarifications for words used in your articles or web pages.
+* Language Translations – Converts terms and their meanings into a chosen language.
+
+= What's Next =
+[HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) develop the best WordPress customer support plugins with over 26,000 customers and counting. If you like our glossary plugin, then consider checking out our other plugins:
+
+* [Heroic KB](https://herothemes.com/plugins/heroic-wordpress-knowledge-base/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - The best WordPress knowledge base plugin. Create a beautifully designed, searchable knowledge base in minutes.
+* [Heroic Inbox](https://herothemes.com/plugins/heroic-inbox/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - Super-powered WordPress helpdesk & customer support plugin. Manage all your customer emails & support tickets directly in your WordPress website.
 
 == Installation ==
 
@@ -69,13 +84,15 @@ Heroic Glossary is designed to work with any WordPress theme.
 
 Yes, Heroic Glossary has full translation and localization support.
 
-= I have a question =
+= Do I need to use the block editor (Gutenberg) with Heroic Glossary? =
+
+Yes, Heroic Glossary was designed from the ground up to take advantage of the powerful and versatile WordPress block editor. Unfortunately It will not work with the classic editor.
 
 Feel free to contact us directly via [herothemes.com/contact/](https://herothemes.com/contact/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) for any questions.
 
 = How do I get support? =
 
-If you have trouble with the Heroic Glossary WordPress plugin, you can get help on the support forums here at [wordpress.org](https://wordpress.org/support/plugin/heroic-glossary/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) or by checking out our knowledge base at [herothemes.com/support/](https://herothemes.com/support/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
+If you have trouble with the Heroic Glossary WordPress plugin, you can get help on the support forums here at [wordpress.org](https://wordpress.org/support/plugin/heroic-glossary/) or by checking out our [knowledge base](https://herothemes.com/kb/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
 
 = Do you have a demo of the Heroic Glossary? =
 
@@ -95,6 +112,12 @@ When you add the Heroic Glossary block, select the block and then click the ⋮ 
 5. The block options can be controlled from the inspector panel
 
 == Changelog ==
+
+= 1.2.5 =
+(29 Apr 2024)
+
+(Fixed) All filter bug within block editor and frontend
+(Updated) Readme.txt updates
 
 = 1.2.4 =
 (3 Jan 2024)
