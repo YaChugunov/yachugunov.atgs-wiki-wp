@@ -1,0 +1,16 @@
+{
+	"[php]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"editor.fontSize": 14,
+	"editor.tabSize": 4,
+	"php.suggest.basic": false,
+	"intelephense.environment.documentRoot": "D:\\IDE - VSCode projects\\ATGS.Wiki\\wiki.atgs.ru\\wp",
+	"prettier.printWidth": 720,
+	"prettier.proseWrap": "never",
+	"prettier.requireConfig": true,
+	"prettier.tabWidth": 4,
+	"auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+	"editor.cursorStyle": "underline",
+}
