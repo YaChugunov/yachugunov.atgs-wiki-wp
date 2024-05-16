@@ -331,3 +331,44 @@ function wpc_list_authors() {
     endif;
     return $list;
 }
+
+/** 
+ * 
+ * 
+ */
+
+if (current_user_can('subscriber')) {
+    add_filter('show_password_fields', '__return_false');
+}
+
+// add_action('admin_init', 'disable_dashboard');
+// function disable_dashboard() {
+//     if (current_user_can('subscriber') && is_admin()) {
+//         wp_redirect(home_url()));
+//         exit;
+//     }
+// }
+
+
+// add_action('admin_init', 'disable_admin_bar');
+// function disable_admin_bar() {
+//     if (current_user_can('subscriber')) {
+//         show_admin_bar(false);
+//     }
+// }
+
+
+function disable_user_profile() {
+    if (is_admin()) {
+        $user = wp_get_current_user();
+        if (12 == $user->ID) {
+            // wp_die('Администратор заблокировал вам доступ к этому разделу. Просто наслаждайтесь контентом... На главную :)');
+            if (current_user_can('subscriber') && is_admin()) {
+                wp_redirect(home_url());
+                exit;
+            }
+        }
+    }
+}
+add_action('load-profile.php', 'disable_user_profile');
+add_action('load-user-edit.php', 'disable_user_profile');
